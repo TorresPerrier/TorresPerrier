@@ -28,7 +28,6 @@ public class Main {
                 "– DIFICULDADE PARA RESPIRAR\n"+
                 "- PERDA DE FALA OU MOVIMENTO\n");
         System.out.println(""+
-               "GRUPO 2\n"+
                "GRUPO 2:\n"+
                "- TOSSE COM OU SEM CATARRO\n" +
                 "- DOR NO PEITO\n" +
@@ -38,7 +37,6 @@ public class Main {
                 "- MAL-ESTAR\n" +
                 "- FALTA DE APETITE\n");
         System.out.println(""+
-                "GRUPO 3\n"+
                 "GRUPO 3:\n"+
                 "- FEBRE\n"+
                 "- FADIGA\n"+
